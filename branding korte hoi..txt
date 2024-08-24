@@ -1,0 +1,19 @@
+branding korte hoi.
+1. image add kore sundor kore social media te upload kora.
+2.git hub link share kora.
+4.video recording
+5.client er project templete dya jabe na. but project screen shoot diye share korte pare.
+
+
+
+css
+------
+	inline css
+	internal css
+	external css
+1.email templete
+
+html-content - grab- selector - properties-values
+
+
+hw....

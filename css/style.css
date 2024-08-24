@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0;
+}
+h1{
+	color: red;
+}
+.pera{
+	font-size: 20px;
+	font-weight: bold;
+}
+.pera1{
+	font-size: 50px;
+	color: #ff6200;
+}
+.margin-1{
+	margin: 20px;
+	border: 1px solid black;
+	width: 200px;
+	text-align: center;
+	padding: 20px;
+}
